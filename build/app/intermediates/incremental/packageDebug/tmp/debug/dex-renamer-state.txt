@@ -1,0 +1,4 @@
+#Mon Jan 03 22:13:17 ICT 2022
+base.0=D\:\\Desktop\\Gadgets-Store-App-UI\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
